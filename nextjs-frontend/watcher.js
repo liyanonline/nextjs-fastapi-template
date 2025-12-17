@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-require-imports */
-
 const chokidar = require("chokidar");
 const { exec } = require("child_process");
 const { config } = require("dotenv");
